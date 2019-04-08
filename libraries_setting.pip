@@ -1,0 +1,12 @@
+pip install psycopg2
+pip install json
+pip install beautifulsoup
+pip install datetime
+pip install itertools
+pip install nltk
+pip install inflection
+pip install regex
+pip install antlr4-python3-runtime
+pip install pandas
+pip install requests
+pip install html5lib
