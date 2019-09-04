@@ -1,0 +1,11 @@
+antlr4-python3-runtime==4.7.2
+beautifulsoup4==4.8.0
+DateTime==4.3
+html5lib==1.0.1
+inflection==0.3.1
+nltk==3.4.5
+numpy==1.17.1
+pandas==0.25.1
+psycopg2==2.8.3
+regex==2019.8.19
+requests==2.22.0
