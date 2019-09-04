@@ -57,7 +57,7 @@ In the file, there is a list or a sql as an input.
     
     - Example for sql: 
 
-            select content form topic\_keywords;
+            select content form topic_keywords;
 
     - Example for file:
 
@@ -71,7 +71,7 @@ In the file, there is a list or a sql as an input.
 
     - Example for sql: 
 
-            select id form url\_ids;
+            select id form url_ids;
 
     - Example for file:
 
@@ -80,7 +80,7 @@ In the file, there is a list or a sql as an input.
             3
 
 
-###Test
+### Test
 You can test with **run.sh** script or the following commands
 
 1. python web\_crawler.py url\_queue sql topic\_keywords.sql
