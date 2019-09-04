@@ -72,7 +72,7 @@ In the file, there is a list or a sql as an input.
             3
 
 ###Test
-You can test with the following commands
+You can test with **run.sh** script or the following commands
 
 1. python web\_crawler.py url\_queue sql topic\_keywords.sql
 2. python web\_crawler.py url\_queue list topic\_keywords.list
