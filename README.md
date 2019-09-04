@@ -20,7 +20,7 @@ This program requires 3 arguments.
 3.  input file name
 
 
-#####Component name
+Component name
 1.  url\_queue: It executes crawling using Google Search. You should use filename.
 2.  web\_downloader: It executes crawling with the ouputs of the url\_queue.
 3.  parser: It parses a html and filters the html with content keywords.
@@ -29,7 +29,7 @@ This program requires 3 arguments.
 6.  nl\_extractor: It extracts tables from htmls which not filtered.
 
 
-#####Input file type
+Input file type
 1.  sql: you can use sql as an input. (ex. select id from url\_info;)
 2.  list: you can use list as an input
         (ex. In file...
@@ -39,7 +39,8 @@ This program requires 3 arguments.
         )
 
 
-#####Input file name
+Input file name
+
 In the file, there is a list or a sql as an input.
 
 1.  url\_queue
