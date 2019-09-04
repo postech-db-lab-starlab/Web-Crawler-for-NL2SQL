@@ -24,7 +24,7 @@ Component name
 1.  url\_queue: It executes crawling using Google Search. You should use filename.
 2.  web\_downloader: It executes crawling with the ouputs of the url\_queue.
 3.  parser: It parses a html and filters the html with content keywords.
-4.  sql\_extractor: It extracts sql from the output of the parser and filters the html which doesn't have any SQLs.
+4.  sql\_extractor: It extracts SQL from the output of the parser and filters the html which doesn't have any SQLs. It follows the syntax of sqlite3.
 5.  table\_extractor: It extracts tables from the output of the sql\_extractor.
 6.  nl\_extractor: It extracts tables from htmls which not filtered.
 
